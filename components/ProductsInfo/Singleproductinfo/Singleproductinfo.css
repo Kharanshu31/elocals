@@ -1,0 +1,16 @@
+.productspecification {
+  position: relative;
+   margin-left: 20px;
+ /*margin-right: 300px; */
+  padding: 20px 20px;
+}
+
+.productspecificationdetail {
+  position: relative;
+  margin-left: 200px;
+  top:20px;
+}
+
+.productexplain {
+  position: relative;
+}
