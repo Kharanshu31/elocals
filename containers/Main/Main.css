@@ -1,0 +1,27 @@
+.productbtn {
+  position: relative;
+  background-color: white;
+  border: 1px solid black;
+  padding: 13px 40px 13px 40px;
+  top:300px;
+  right:120px;
+  box-sizing: border-box;
+  box-shadow: 0 2px 3px #ccc;
+}
+
+.sellerbtn {
+  position: relative;
+  background-color: white;
+  border: 1px solid black;
+  padding: 13px 70px 13px 75px;
+  top:400px;
+  right:310px;
+  box-sizing: border-box;
+  box-shadow: 0 1px 2px #ccc;
+}
+
+.logo {
+  width: 5%;
+  margin-left: 45%;
+  margin-top: 10%;
+}

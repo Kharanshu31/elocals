@@ -1,0 +1,92 @@
+.otherimg {
+  width: 25%;
+  /* margin-left: 40px; */
+}
+
+.productimg {
+  width: 23%;
+  height: 10%;
+  margin:50px 0 0 -30px;
+}
+
+.productheading {
+  font-size: 1.2rem;
+  font-weight: bolder;
+}
+
+.imgblock {
+  padding: 5px;
+  margin: 50px 0 0 60px;
+}
+
+.productinfo {
+  margin-left: 15%;
+  margin-top: 20px;
+}
+
+.bulletpts {
+  list-style: none;
+  line-height: 1.8rem;
+  opacity: 0.8;
+  margin-left: -40px;
+}
+
+.cut {
+  text-decoration: line-through;
+  margin-left:5px;
+}
+
+.discount {
+  color: orange;
+  font-weight: bold;
+  margin: 3px 0 0 5px;
+}
+
+.paymentbtn {
+  border: 1px solid orange;
+  color: orange;
+  margin-right:  25px;
+  background-color: #ffefd5;
+  padding: 4px;
+}
+
+.orederbtn {
+  background-color: #1077d6;
+  color: white;
+  padding: 12px 40px 12px 40px;
+  border: none;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.cart {
+  background-color: white;
+  color: blue;
+  box-shadow: 0 2px 3px #ccc;
+}
+
+.storebtn {
+  background-color: white;
+  color: blue
+}
+
+.calender {
+  margin-top: 30px;
+  color: blue;
+}
+
+.productseller {
+  line-height: 0.1rem;
+  width: 10%;
+  box-sizing: border-box;
+  border: 2px solid orange;
+  margin: 100px 0 0 50px;
+}
+
+.sellerinfo {
+  margin-left: 10px;
+}
+
+.sellerlink {
+  margin: 120px 0 0 200px;
+}

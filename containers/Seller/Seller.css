@@ -1,0 +1,45 @@
+.active {
+  margin: 50px 0 0 100px;
+  color: black
+}
+
+.seller {
+  display: flex;
+  margin-left: 50px;
+  margin-top: 50px
+}
+
+.sellerheadingblock {
+  width: 90%;
+  margin: 50px 0 0 100px;
+  display: flex;
+  box-sizing: border-box;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+}
+
+.sellerheading {
+  font-weight: 400;
+  margin: 5px 70% 5px 70px;
+}
+
+.telecomimg {
+  width: 5%;
+  margin-right: 20px;
+}
+
+.sellerinfo {
+  line-height: 0.5rem;
+  margin-top: 10px;
+}
+
+.cut {
+  text-decoration: line-through;
+  margin-left: 5px;
+}
+
+.discount {
+  color: orange;
+  font-weight: bold;
+  margin-left: 5px;
+}

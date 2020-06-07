@@ -1,0 +1,38 @@
+.tags {
+  position: relative;
+  margin-left: 50px;
+  margin-top: 50px;
+  font-size: 0.8rem;
+}
+
+.similar {
+  position: relative;
+  font-size: 1.5rem;
+  left:55px;
+  top:50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.missing {
+  margin: 80px 0 0 150px;
+  width: 80%;
+  background-color: #87CEFA;
+  padding: 5%;
+}
+
+.missingheading {
+  text-align: center;
+  margin-top: 50px;
+  color: blue;
+}
+
+.missingbtn {
+  position: relative;
+  left: 42%;
+  top: 65px;
+  color: white;
+  background-color: blue;
+  padding: 6px;
+  border: 1px solid black;
+}

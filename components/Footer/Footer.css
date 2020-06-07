@@ -1,0 +1,19 @@
+.logoimg {
+  width: 25%;
+  margin: 100px 0 50px 50px;
+}
+
+.Follow {
+  width: 28%;
+  margin: 120px 0 0 50px;
+}
+
+.Contact {
+  width: 28%;
+  margin: 120px 0 0 160px;
+  line-height: 0.5rem;
+}
+
+.Useful {
+  margin: 50px -315px 0 500px;
+}

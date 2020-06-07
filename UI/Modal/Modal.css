@@ -1,0 +1,10 @@
+.modalcomponent {
+  position: fixed;
+  background-color: white;
+  width: 10%;
+  z-index: 5;
+  border: 1px solid black;
+  box-sizing: border-box;
+  box-shadow: 0 2px 3px #ccc;
+  margin-left: 82%;
+}
