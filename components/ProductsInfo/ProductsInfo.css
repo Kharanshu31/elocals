@@ -1,0 +1,21 @@
+.infomain {
+  width: 80%;
+  margin: 100px 0 0 100px;
+  padding: 15px 15px;
+  box-sizing: border-box;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+}
+
+.infoheading {
+  margin-right: 230px;
+  cursor: pointer;
+}
+
+.specifications {
+  width: 80%;
+  margin-left: 100px;
+  box-sizing: border-box;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+}
