@@ -1,0 +1,26 @@
+.seller {
+  display: flex;
+  margin-left: 50px;
+  margin-top: 50px
+}
+
+.telecomimg {
+  width: 5%;
+  margin-right: 20px;
+}
+
+.sellerinfo {
+  line-height: 0.5rem;
+  margin-top: 10px;
+}
+
+.cut {
+  text-decoration: line-through;
+  margin-left: 5px;
+}
+
+.discount {
+  color: orange;
+  font-weight: bold;
+  margin-left: 5px;
+}

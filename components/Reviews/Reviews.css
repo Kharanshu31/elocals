@@ -1,0 +1,24 @@
+.reviewpage {
+  margin:60px 30px 0 65px;
+}
+
+.circlename {
+ height: 25px;
+ width: 25px;
+ background-color: orange;
+ padding: 15px;
+ border-radius: 50%;
+ display: inline-block;
+ margin-right: 10px;
+}
+
+.circleuserletter {
+  position: relative;
+  right: 5px;
+  bottom: 11px;
+}
+
+.rating {
+  width: 3%;
+  background-color: grey;
+}
